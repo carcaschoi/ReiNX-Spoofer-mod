@@ -1,2 +1,17 @@
-# ReiNX-Spoofer-mod
-A simple service that will mock the ReiNX service on Atmosphere. This repo has a tiny mod
+# ReiNX-Spoofer (mod by carcaschoi)
+This repo has a tiny mod of this [repo](https://git.nicholemattera.com/NicholeMattera/ReiNX-Spoofer) by NicholeMattera.
+
+# How it works & what is the usage:
+Deceive ReiNX when running atmosphere, so thst you can spoof tinfoil & enjoy ReiNX unique services
+
+# What is the different between original repo & this modded repo
+**I have improve the user experience**
+* change titles folder to contents folder so it can compatible to the latest version of atmosphere
+* Add toolbox.json file so you can toggle this plugin on or off freely by using tesla menu(with ovl-sysmodule) or Deepsea toolbox
+
+# How to install
+* download the latest releases from [here](https://github.com/carcaschoi/ReiNX-Spoofer/releases/latest) & extract to the root of sd card
+
+# Known bug:
+* If some homebrew apps are forced to use atmosphere, They maybe crash. (example:[nightfall](https://github.com/D3fau4/NightFall)
+* **Solution**: Disable the plugin & reboot the console before use these app.
