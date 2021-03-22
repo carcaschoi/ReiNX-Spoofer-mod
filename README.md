@@ -2,7 +2,7 @@
 This repo has a tiny mod of this original [repo](https://git.nicholemattera.com/NicholeMattera/ReiNX-Spoofer) by NicholeMattera.
 
 # How it works & what is the usage:
-Deceive ReiNX when running atmosphere, so thst you can spoof tinfoil & enjoy ReiNX unique services
+Deceive ReiNX when running atmosphere, so thst you can spoof tinfoil & enjoy ReiNX unique services (ex. show games image in hbg shop)
 
 # What is the different between original repo & this modded repo
 **I have improve the user experience**
