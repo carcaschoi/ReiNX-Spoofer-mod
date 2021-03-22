@@ -8,6 +8,7 @@ Deceive ReiNX when running atmosphere, so thst you can spoof tinfoil & enjoy Rei
 **I have improve the user experience**
 * change titles folder to contents folder so it can compatible to the latest version of atmosphere
 * Add toolbox.json file so you can toggle this plugin on or off freely by using [tesla menu](https://github.com/WerWolv/Tesla-Menu/)(with [ovl-sysmodule](https://github.com/WerWolv/ovl-sysmodules)) or [Deepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
+* Spoof the latest version of ReiNX(3.0) instead of 2.4 
 
 # How to install
 * download the latest releases from [here](https://github.com/carcaschoi/ReiNX-Spoofer-mod/releases/latest) & extract to the root of sd card
