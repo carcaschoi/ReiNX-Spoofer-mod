@@ -1,4 +1,4 @@
-# ReiNX-Spoofer (mod by carcaschoi)
+# ReiNX-Spoofer-mod (mod by carcaschoi)
 This repo has a tiny mod of this original [repo](https://git.nicholemattera.com/NicholeMattera/ReiNX-Spoofer) by NicholeMattera.
 
 # How it works & what is the usage:
