@@ -5,7 +5,7 @@ This repo has a tiny mod of this original [repo](https://git.nicholemattera.com/
 Deceive ReiNX when running atmosphere, so thst you can spoof tinfoil & enjoy ReiNX unique services (ex. show games image in hbg shop)
 
 # What is the different between original repo & this modded repo
-**I have improve the user experience**
+**I have improved the user experience**
 * change titles folder to contents folder so it can compatible to the latest version of atmosphere
 * Add toolbox.json file so you can toggle this plugin on or off freely by using [tesla menu](https://github.com/WerWolv/Tesla-Menu/)(with [ovl-sysmodule](https://github.com/WerWolv/ovl-sysmodules)) or [Deepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
 * Spoof the latest version of ReiNX(3.0) instead of 2.4 
